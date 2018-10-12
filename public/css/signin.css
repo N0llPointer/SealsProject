@@ -1,0 +1,19 @@
+#logview {
+  background-image: url("https://images.unsplash.com/photo-1516321165247-4aa89a48be28?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=899e2558d4cef07927641f0ecef4aa6c&auto=format&fit=crop&w=1394&q=80");
+  background-size: cover;
+}
+
+#logform {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-left: 25%;
+  width: 50%;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 5%;
+  border-radius: 1%;
+}
+::placeholder {
+  color: #0a5;
+  font-size: 1.2em;
+  font-weight: bold;
+}
